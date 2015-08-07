@@ -16,6 +16,10 @@ The command is avelable on Mac. Other os needs `go build main.go`.
 go install github.com/Layzie/gitconfig-setter
 ```
 
+or
+
+download [command](https://github.com/Layzie/gitconfig-setter/releases/download/0.0.1/gitconfig-setter).
+
 ### Make config file
 
 Make `config.toml` such as:
