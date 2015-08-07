@@ -13,7 +13,7 @@ The command is avelable on Mac. Other os needs `go build main.go`.
 ### Install
 
 ```sh
-go install github.com/Layzie/git
+go install github.com/Layzie/gitconfig-setter
 ```
 
 ### Make config file
