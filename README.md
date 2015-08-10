@@ -1,5 +1,7 @@
 # gitconfig-setter
 
+[![asciicast](https://asciinema.org/a/24772.png)](https://asciinema.org/a/24772)
+
 ## What's this?
 
 This command (`gitconfig-setter`) sets local *user.name* and *user.email* of git.
