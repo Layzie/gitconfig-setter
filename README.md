@@ -1,5 +1,7 @@
 # gitconfig-setter
 
+**Demo**
+
 [![asciicast](https://asciinema.org/a/24772.png)](https://asciinema.org/a/24772)
 
 ## What's this?
